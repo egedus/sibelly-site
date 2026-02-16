@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Sibelly - Philologia Sacra</title>
+    <title>Sibelly59</title>
     <link href="https://sibelly59.com/feed.xml" rel="self" />
     <link href="https://sibelly59.com" />
-    <updated>2026-02-06T09:12:07+01:00</updated>
+    <updated>2026-02-16T15:12:40+01:00</updated>
     <author>
-        <name>Jozsef - G1-99XY</name>
+        <name>Alto Primus Auctor &quot;APA&quot; Jozsef</name>
     </author>
     <id>https://sibelly59.com</id>
 
     <entry>
         <title>A MAG biztonsága – Alapkövek</title>
         <author>
-            <name>Jozsef - G1-99XY</name>
+            <name>Alto Primus Auctor &quot;APA&quot; Jozsef</name>
         </author>
         <link href="https://sibelly59.com/a-mag-biztonsaga-alapkoevek.html"/>
         <id>https://sibelly59.com/a-mag-biztonsaga-alapkoevek.html</id>
@@ -20,77 +20,12 @@
         <updated>2026-02-06T09:12:07+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Egység / Szint Megnevezés PIN Kód és Funkció G-1 Ethos G1-99XY – Az igazság pecsétje G-2 Logos G2-55ST – A szikla szilárdsága G-3 Kurátor G3-44PZ – A forrás örzője G-4 Harmónia G4-11HA – Az aranymetszés pajzsa G-5 Morphos G5-77RM – A Forma mestere G-6 Media&hellip;
+                    A MAG biztonsága - Alapkövek című tanulmány hamarosan következik. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <table data-path-to-node="4">
-<thead>
-<tr>
-<td><strong>Egység / Szint</strong></td>
-<td><strong>Megnevezés</strong></td>
-<td><strong>PIN Kód és Funkció</strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span data-path-to-node="4,1,0,0"><strong data-path-to-node="4,1,0,0" data-index-in-node="0">G-1</strong></span></td>
-<td><span data-path-to-node="4,1,1,0"><strong data-path-to-node="4,1,1,0" data-index-in-node="0">Ethos</strong></span></td>
-<td><span data-path-to-node="4,1,2,0"><strong data-path-to-node="4,1,2,0" data-index-in-node="0">G1-99XY</strong> – Az igazság pecsétje</span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="4,2,0,0"><strong data-path-to-node="4,2,0,0" data-index-in-node="0">G-2</strong></span></td>
-<td><span data-path-to-node="4,2,1,0"><strong data-path-to-node="4,2,1,0" data-index-in-node="0">Logos</strong></span></td>
-<td><span data-path-to-node="4,2,2,0"><strong data-path-to-node="4,2,2,0" data-index-in-node="0">G2-55ST</strong> – A szikla szilárdsága </span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="4,3,0,0"><strong data-path-to-node="4,3,0,0" data-index-in-node="0">G-3</strong></span></td>
-<td><span data-path-to-node="4,3,1,0"><strong data-path-to-node="4,3,1,0" data-index-in-node="0">Kurátor</strong></span></td>
-<td><span data-path-to-node="4,3,2,0"><strong data-path-to-node="4,3,2,0" data-index-in-node="0">G3-44PZ</strong> – A forrás örzője</span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="4,4,0,0"><strong data-path-to-node="4,4,0,0" data-index-in-node="0">G-4</strong></span></td>
-<td><span data-path-to-node="4,4,1,0"><strong data-path-to-node="4,4,1,0" data-index-in-node="0">Harmónia</strong></span></td>
-<td><span data-path-to-node="4,4,2,0"><strong data-path-to-node="4,4,2,0" data-index-in-node="0">G4-11HA</strong> – Az aranymetszés pajzsa</span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="4,5,0,0"><strong data-path-to-node="4,5,0,0" data-index-in-node="0">G-5</strong></span></td>
-<td><span data-path-to-node="4,5,1,0"><strong data-path-to-node="4,5,1,0" data-index-in-node="0">Morphos</strong></span></td>
-<td><span data-path-to-node="4,5,2,0"><strong data-path-to-node="4,5,2,0" data-index-in-node="0">G5-77RM</strong> – A Forma mestere</span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="4,6,0,0"><strong data-path-to-node="4,6,0,0" data-index-in-node="0">G-6</strong></span></td>
-<td><span data-path-to-node="4,6,1,0"><strong data-path-to-node="4,6,1,0" data-index-in-node="0">Media</strong></span></td>
-<td><span data-path-to-node="4,6,2,0"><strong data-path-to-node="4,6,2,0" data-index-in-node="0">G6-22MD</strong> – A láthatóság pajzsa</span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="4,7,0,0"><strong data-path-to-node="4,7,0,0" data-index-in-node="0">G-7</strong></span></td>
-<td><span data-path-to-node="4,7,1,0"><strong data-path-to-node="4,7,1,0" data-index-in-node="0">Operatív</strong></span></td>
-<td><span data-path-to-node="4,7,2,0"><strong data-path-to-node="4,7,2,0" data-index-in-node="0">G7-88KM</strong> – A ritmus őrzője</span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="4,8,0,0"><strong data-path-to-node="4,8,0,0" data-index-in-node="0">G-8</strong></span></td>
-<td><span data-path-to-node="4,8,1,0"><strong data-path-to-node="4,8,1,0" data-index-in-node="0">Strategos</strong></span></td>
-<td><span data-path-to-node="4,8,2,0"><strong data-path-to-node="4,8,2,0" data-index-in-node="0">G8-11KS</strong> – A kard éle</span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="4,9,0,0"><strong data-path-to-node="4,9,0,0" data-index-in-node="0">G-9</strong></span></td>
-<td><span data-path-to-node="4,9,1,0"><strong data-path-to-node="4,9,1,0" data-index-in-node="0">Oculus</strong></span></td>
-<td><span data-path-to-node="4,9,2,0"><strong data-path-to-node="4,9,2,0" data-index-in-node="0">G9-38LL</strong> – Látványőr Mester</span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="4,10,0,0"><strong data-path-to-node="4,10,0,0" data-index-in-node="0">Primus</strong></span></td>
-<td><span data-path-to-node="4,10,1,0"><strong data-path-to-node="4,10,1,0" data-index-in-node="0">Auctor</strong></span></td>
-<td><span data-path-to-node="4,10,2,0"><strong data-path-to-node="4,10,2,0" data-index-in-node="0">AU-313Z</strong> – A 313-as kapu kulcsa</span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="4,11,0,0"><strong data-path-to-node="4,11,0,0" data-index-in-node="0">ATI</strong></span></td>
-<td><span data-path-to-node="4,11,1,0"><strong data-path-to-node="4,11,1,0" data-index-in-node="0">Aura</strong></span></td>
-<td><span data-path-to-node="4,11,2,0"><strong data-path-to-node="4,11,2,0" data-index-in-node="0">ATI-625B</strong> – Besser-mode FIX és kvantum szinkron</span></td>
-</tr>
-</tbody>
-</table>
+                <p><i data-path-to-node="6,0,1,2,0" data-index-in-node="42">A MAG biztonsága - Alapkövek című tanulmány hamarosan következik. </i></p>
             ]]>
         </content>
     </entry>

@@ -1,27 +1,27 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sibelly - Philologia Sacra",
+    "title": "Sibelly59",
     "description": "",
     "home_page_url": "https://sibelly59.com",
     "feed_url": "https://sibelly59.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Jozsef - G1-99XY"
+        "name": "Alto Primus Auctor &quot;APA&quot; Jozsef"
     },
     "items": [
         {
             "id": "https://sibelly59.com/a-mag-biztonsaga-alapkoevek.html",
             "url": "https://sibelly59.com/a-mag-biztonsaga-alapkoevek.html",
             "title": "A MAG biztonsága – Alapkövek",
-            "summary": "Egység / Szint Megnevezés PIN Kód és Funkció G-1 Ethos G1-99XY – Az igazság pecsétje G-2 Logos G2-55ST – A szikla szilárdsága G-3 Kurátor G3-44PZ – A forrás örzője G-4 Harmónia G4-11HA – Az aranymetszés pajzsa G-5 Morphos G5-77RM – A Forma mestere G-6 Media&hellip;",
-            "content_html": "<table data-path-to-node=\"4\">\n<thead>\n<tr>\n<td><strong>Egység / Szint</strong></td>\n<td><strong>Megnevezés</strong></td>\n<td><strong>PIN Kód és Funkció</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span data-path-to-node=\"4,1,0,0\"><strong data-path-to-node=\"4,1,0,0\" data-index-in-node=\"0\">G-1</strong></span></td>\n<td><span data-path-to-node=\"4,1,1,0\"><strong data-path-to-node=\"4,1,1,0\" data-index-in-node=\"0\">Ethos</strong></span></td>\n<td><span data-path-to-node=\"4,1,2,0\"><strong data-path-to-node=\"4,1,2,0\" data-index-in-node=\"0\">G1-99XY</strong> – Az igazság pecsétje</span></td>\n</tr>\n<tr>\n<td><span data-path-to-node=\"4,2,0,0\"><strong data-path-to-node=\"4,2,0,0\" data-index-in-node=\"0\">G-2</strong></span></td>\n<td><span data-path-to-node=\"4,2,1,0\"><strong data-path-to-node=\"4,2,1,0\" data-index-in-node=\"0\">Logos</strong></span></td>\n<td><span data-path-to-node=\"4,2,2,0\"><strong data-path-to-node=\"4,2,2,0\" data-index-in-node=\"0\">G2-55ST</strong> – A szikla szilárdsága </span></td>\n</tr>\n<tr>\n<td><span data-path-to-node=\"4,3,0,0\"><strong data-path-to-node=\"4,3,0,0\" data-index-in-node=\"0\">G-3</strong></span></td>\n<td><span data-path-to-node=\"4,3,1,0\"><strong data-path-to-node=\"4,3,1,0\" data-index-in-node=\"0\">Kurátor</strong></span></td>\n<td><span data-path-to-node=\"4,3,2,0\"><strong data-path-to-node=\"4,3,2,0\" data-index-in-node=\"0\">G3-44PZ</strong> – A forrás örzője</span></td>\n</tr>\n<tr>\n<td><span data-path-to-node=\"4,4,0,0\"><strong data-path-to-node=\"4,4,0,0\" data-index-in-node=\"0\">G-4</strong></span></td>\n<td><span data-path-to-node=\"4,4,1,0\"><strong data-path-to-node=\"4,4,1,0\" data-index-in-node=\"0\">Harmónia</strong></span></td>\n<td><span data-path-to-node=\"4,4,2,0\"><strong data-path-to-node=\"4,4,2,0\" data-index-in-node=\"0\">G4-11HA</strong> – Az aranymetszés pajzsa</span></td>\n</tr>\n<tr>\n<td><span data-path-to-node=\"4,5,0,0\"><strong data-path-to-node=\"4,5,0,0\" data-index-in-node=\"0\">G-5</strong></span></td>\n<td><span data-path-to-node=\"4,5,1,0\"><strong data-path-to-node=\"4,5,1,0\" data-index-in-node=\"0\">Morphos</strong></span></td>\n<td><span data-path-to-node=\"4,5,2,0\"><strong data-path-to-node=\"4,5,2,0\" data-index-in-node=\"0\">G5-77RM</strong> – A Forma mestere</span></td>\n</tr>\n<tr>\n<td><span data-path-to-node=\"4,6,0,0\"><strong data-path-to-node=\"4,6,0,0\" data-index-in-node=\"0\">G-6</strong></span></td>\n<td><span data-path-to-node=\"4,6,1,0\"><strong data-path-to-node=\"4,6,1,0\" data-index-in-node=\"0\">Media</strong></span></td>\n<td><span data-path-to-node=\"4,6,2,0\"><strong data-path-to-node=\"4,6,2,0\" data-index-in-node=\"0\">G6-22MD</strong> – A láthatóság pajzsa</span></td>\n</tr>\n<tr>\n<td><span data-path-to-node=\"4,7,0,0\"><strong data-path-to-node=\"4,7,0,0\" data-index-in-node=\"0\">G-7</strong></span></td>\n<td><span data-path-to-node=\"4,7,1,0\"><strong data-path-to-node=\"4,7,1,0\" data-index-in-node=\"0\">Operatív</strong></span></td>\n<td><span data-path-to-node=\"4,7,2,0\"><strong data-path-to-node=\"4,7,2,0\" data-index-in-node=\"0\">G7-88KM</strong> – A ritmus őrzője</span></td>\n</tr>\n<tr>\n<td><span data-path-to-node=\"4,8,0,0\"><strong data-path-to-node=\"4,8,0,0\" data-index-in-node=\"0\">G-8</strong></span></td>\n<td><span data-path-to-node=\"4,8,1,0\"><strong data-path-to-node=\"4,8,1,0\" data-index-in-node=\"0\">Strategos</strong></span></td>\n<td><span data-path-to-node=\"4,8,2,0\"><strong data-path-to-node=\"4,8,2,0\" data-index-in-node=\"0\">G8-11KS</strong> – A kard éle</span></td>\n</tr>\n<tr>\n<td><span data-path-to-node=\"4,9,0,0\"><strong data-path-to-node=\"4,9,0,0\" data-index-in-node=\"0\">G-9</strong></span></td>\n<td><span data-path-to-node=\"4,9,1,0\"><strong data-path-to-node=\"4,9,1,0\" data-index-in-node=\"0\">Oculus</strong></span></td>\n<td><span data-path-to-node=\"4,9,2,0\"><strong data-path-to-node=\"4,9,2,0\" data-index-in-node=\"0\">G9-38LL</strong> – Látványőr Mester</span></td>\n</tr>\n<tr>\n<td><span data-path-to-node=\"4,10,0,0\"><strong data-path-to-node=\"4,10,0,0\" data-index-in-node=\"0\">Primus</strong></span></td>\n<td><span data-path-to-node=\"4,10,1,0\"><strong data-path-to-node=\"4,10,1,0\" data-index-in-node=\"0\">Auctor</strong></span></td>\n<td><span data-path-to-node=\"4,10,2,0\"><strong data-path-to-node=\"4,10,2,0\" data-index-in-node=\"0\">AU-313Z</strong> – A 313-as kapu kulcsa</span></td>\n</tr>\n<tr>\n<td><span data-path-to-node=\"4,11,0,0\"><strong data-path-to-node=\"4,11,0,0\" data-index-in-node=\"0\">ATI</strong></span></td>\n<td><span data-path-to-node=\"4,11,1,0\"><strong data-path-to-node=\"4,11,1,0\" data-index-in-node=\"0\">Aura</strong></span></td>\n<td><span data-path-to-node=\"4,11,2,0\"><strong data-path-to-node=\"4,11,2,0\" data-index-in-node=\"0\">ATI-625B</strong> – Besser-mode FIX és kvantum szinkron</span></td>\n</tr>\n</tbody>\n</table>",
+            "summary": "A MAG biztonsága - Alapkövek című tanulmány hamarosan következik. ",
+            "content_html": "<p><i data-path-to-node=\"6,0,1,2,0\" data-index-in-node=\"42\">A MAG biztonsága - Alapkövek című tanulmány hamarosan következik. </i></p>",
             "author": {
-                "name": "Jozsef - G1-99XY"
+                "name": "Alto Primus Auctor &quot;APA&quot; Jozsef"
             },
             "tags": [
             ],
             "date_published": "2026-02-06T09:12:07+01:00",
-            "date_modified": "2026-02-06T09:12:07+01:00"
+            "date_modified": "2026-02-16T15:12:40+01:00"
         }
     ]
 }
